@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<menu>
+    <onglet  lien="accueil.php" id="1">
+        <principal>Accueil</principal>
+    </onglet>
+    <onglet  lien="apropos.php" id="2"> 
+        <principal>A propos</principal>
+    </onglet>
+ <onglet lien="livres.php">
+        <principal>Livres</principal>
+    </onglet>
+    <onglet lien="actualites.php"> 
+        <principal>Actualités</principal>
+    </onglet>
+    <onglet lien="inscription.php"> 
+        <principal>Inscription</principal>
+        <sous-rubrique>VIP</sous-rubrique>
+        <sous-rubrique>Oridinaire</sous-rubrique>
+    </onglet>
+    <onglet lien="contact.php"> 
+        <principal>Contact</principal>
+    </onglet>
+
+</menu>
